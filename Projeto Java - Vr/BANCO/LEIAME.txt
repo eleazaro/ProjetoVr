@@ -1,0 +1,2 @@
+1 - Infelizmente não foi possível criar o banco quando iniciar a aplicação então segue script para criação da base
+2 - Código preparado para base mysql com a config root/password
